@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack Developer**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **MongoDB**
 
 - 📫 How to reach me **antonyarockiaraj107@gmail.com**
 
